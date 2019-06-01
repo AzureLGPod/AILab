@@ -3,6 +3,7 @@
 
 ## Using pyNVML module
 * pre-requisites
+
 Install pyNVML Module(https://pypi.org/project/nvidia-ml-py/)
 
 ```shell
