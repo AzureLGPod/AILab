@@ -30,3 +30,7 @@ print (gpu_util)
 
 N.nvmlShutdown()
 ```
+
+## other utilities
+* [gpustat](https://github.com/wookayin/gpustat)
+* [The Glances RESTFULL JSON API](https://github.com/nicolargo/glances/wiki/The-Glances-RESTFULL-JSON-API)
